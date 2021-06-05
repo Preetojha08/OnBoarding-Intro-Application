@@ -1,0 +1,2 @@
+rootProject.name = "My Walk Through"
+include ':app'
